@@ -1,5 +1,4 @@
-# Forest Cover Type Prediction with Machine Learning
-
+## Kaggle Challenge -  Forest Cover Type Prediction
 
 In this repository, we present a comprehensive analysis of a Kaggle machine learning project focused on predicting cover types in forest areas using different geographical, cartographic, and environmental data.
 
