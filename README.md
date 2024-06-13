@@ -3,8 +3,7 @@
 
 In this repository, we present a comprehensive analysis of a Kaggle machine learning project focused on predicting cover types in forest areas using different geographical, cartographic, and environmental data.
 
-The dataset contains information obtained from the US Forest Service (USFS) Region 2 Resource Information System (RIS) data, as well as data from the US Geological Survey (USGS). Our main goal is to build an accurate predictive model that can classify the forest cover type from the data. We have two main datasets:
-• A training set with 15,120 samples   • A test set with 581,012 samples
+The dataset contains information obtained from the US Forest Service (USFS) Region 2 Resource Information System (RIS) data, as well as data from the US Geological Survey (USGS). Our main goal is to build an accurate predictive model that can classify the forest cover type from the data.
 
 One of the challenges of this competition is the larger amount of data in the test set. The datasets consist of both quantitative and qualitative attributes, including among others elevation, aspect, slope, distances to hydrology features and roadways, sunlight exposure (hillshade), wilderness area designations, and soil type designations. There are four wilderness areas in the dataset, each represented by a binary column indicating its presence or absence. Similarly, there are 40 binary columns representing different soil types based on the USFS Ecological Landtype Units (ELUs) for the study area.
 
